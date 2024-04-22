@@ -2,7 +2,7 @@
 ##Project Background:  
 The goal of this competition is to predict and classify epileptic seizures and other types of harmful brain activities using EEG and spectrogram data.<br>
 
-###Project Approach:
+###Project Approach:<br>
 1.Data Preprocessing:  
 Through data exploratory data analysis (EDA), it was discovered that there were duplicate similar data in the dataset,  
 which were removed. Missing values were also found in both EEG and spectrogram data, and those missing values were removed.  
