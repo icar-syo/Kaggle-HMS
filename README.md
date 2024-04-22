@@ -1,5 +1,7 @@
-#**HMS - Harmful Brain Activity Classification**
-##Project Background: The goal of this competition is to predict and classify epileptic seizures and other types of harmful brain activities using EEG and spectrogram data.
+#**HMS - Harmful Brain Activity Classification**<br>
+##Project Background:  
+The goal of this competition is to predict and classify epileptic seizures and other types of harmful brain activities using EEG and spectrogram data.<br>
+
 ###Project Approach:
 1.Data Preprocessing:  
 Through data exploratory data analysis (EDA), it was discovered that there were duplicate similar data in the dataset,  
